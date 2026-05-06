@@ -82,6 +82,11 @@ Cổng thanh toán (QR / ATM / Payment Card) hỗ trợ các phương thức tha
 
 ## 🧪 5. Thông tin thẻ test (Sandbox)
 
+### 🧪 Thông tin demo
+- **Website:** https://paylink.hotrocds.com  
+
+---
+
 ### 🏦 ATM nội địa (NCB)
 - Số thẻ: 9704198526191432198  
 - Chủ thẻ: NGUYEN VAN A  
@@ -134,7 +139,7 @@ Có thể áp dụng cho các hệ thống:
 ## 👨‍💻 Người triển khai
 
 - **Email:** paysolution360@gmail.com  
-- **Số điện thoại:** 0393111865  
+- **Số điện thoại:** 0393111865
 
 ---
 
