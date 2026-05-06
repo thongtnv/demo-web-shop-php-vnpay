@@ -133,7 +133,6 @@ Có thể áp dụng cho các hệ thống:
 
 ## 👨‍💻 Người triển khai
 
-- **Họ tên / Alias:** ThongNv  
 - **Email:** paysolution360@gmail.com  
 - **Số điện thoại:** 0393111865  
 
