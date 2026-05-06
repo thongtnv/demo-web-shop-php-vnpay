@@ -127,3 +127,18 @@ Tài liệu này dùng cho môi trường **sandbox của cổng thanh toán**.
 
 Có thể áp dụng cho các hệ thống:
 **VNPAY / MOMO / ONEPAY / EPAY / ZALOPAY / Stripe (tùy API)**
+
+
+---
+
+## 👨‍💻 Người triển khai
+
+- **Họ tên / Alias:** ThongNv  
+- **Email:** paysolution360@gmail.com  
+- **Số điện thoại:** 0393111865  
+
+---
+
+📌 Người triển khai chịu trách nhiệm xây dựng và demo hệ thống tích hợp thanh toán QR / ATM / Thẻ quốc tế trên các nền tảng CMS (WordPress, Drupal, Joomla, OpenCart, PrestaShop, Magento).
+
+---
